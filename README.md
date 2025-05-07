@@ -37,13 +37,13 @@ Está construida usando **Laravel 12**, y su documentación está disponible a t
 
 Aquí se muestran las rutas disponibles en la API.
 
-![Rutas disponibles](sw1.png)
+![Rutas disponibles](public/sw1.png)
 
 ### 2. Descripción de un Endpoint
 
 En esta captura se muestra la descripción de un endpoint y los detalles sobre sus parámetros y respuestas.
 
-![Descripción de un endpoint](sw22.png)
+![Descripción de un endpoint](public/sw2.png)
 
 ## Instalación
 
